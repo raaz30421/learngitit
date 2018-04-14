@@ -250,5 +250,6 @@ p {
 
 	color: #ff1234;
 }
-
-
+#footertext {
+	font-size:22px;
+}
